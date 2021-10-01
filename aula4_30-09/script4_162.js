@@ -1,7 +1,7 @@
 var usuario, usu, senha, senh, res;
-var usu=prompt("Digite o usuario");
-var senh=prompt("Digite a senha");
+usu=prompt("Digite o usuario");
+senh=prompt("Digite a senha");
 usuario = "pera";
 senha = "qwert";
-
+res = (usuario == usu) && (senha == senh);
 document.write(res);
