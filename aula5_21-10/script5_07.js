@@ -1,10 +1,11 @@
 var destino;
 destino=prompt("Digite seu destino: ");
+destino=destino.toLowerCase();//letras minúsculas
 switch (destino) {
-case "São Paulo":
+case "são paulo":
   document.write("Seja bem vindo a cidade que nunca para!");
 break;
-case "New York":
+case "new york":
   document.write("Seja bem vindo a Big Apple!");
 break;
 default:
