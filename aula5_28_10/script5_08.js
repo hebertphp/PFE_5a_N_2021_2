@@ -4,6 +4,8 @@ while (i <= 5) {
  document.write(i + "<br>");
  i++;
 }
+document.write ("<hr><h2>Desafio1</h2>");
+
 /*
 (i++) 
         i       i<=5     saída
@@ -23,6 +25,10 @@ while (i <= 5) {
 6) Qual o último valor impresso? 5
 
 Desafio 1:
+
+7
+8
+9
 
 Desafio 2:
 
