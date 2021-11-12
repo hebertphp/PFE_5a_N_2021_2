@@ -1,7 +1,7 @@
 var uf = ["SP","RJ","MG","ES"];
 var notas =[10, 9.5, 8, 7.5];
-document.getElementById("saida")
-//document.write(notas);
+ document.getElementById("saida").innerHTML=notas;
+document.write(notas);
 /*
 Criar uma variável do tipo array nomeada notas, 
 contendo 4 notas, valores numericos, nessa variável
