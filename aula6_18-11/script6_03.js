@@ -1,4 +1,4 @@
-var herois=["pantera negar","batman","super man","horem aranha","lanterna verde"];
+var herois=["pantera negra","batman","super man","homem aranha","lanterna verde"];
 //                  0          1          2            3             4
 document.getElementById("saida").innerHTML=herois[1];
 
