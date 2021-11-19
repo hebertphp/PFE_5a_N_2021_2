@@ -11,4 +11,4 @@ msg+=nota+"<hr>";
 msg+=num+"<hr>";
 msg+=nome+"<hr>";
 
-document.querySelector("#saida").innerHTML=msg;
+document.querySelector(".d1").innerHTML=msg;
