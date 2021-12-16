@@ -4,7 +4,9 @@ Objetivo: Enviar mensagem de boas vindas
 Data de criação: 16/05/2021
 Autor: Nome do autor
 -------------------------------------------- */
-function boas_vindas() {
+function boas_vindas() {//criação
     document.write("Seja bem vindo!");
 }
+
+boas_vindas();//chamar ou executar a função
 boas_vindas();
